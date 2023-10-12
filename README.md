@@ -1,3 +1,5 @@
+This is a simple react project I did as part of my course [The Complete Web Developer in 2023: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,7 +70,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-This is the project I did as part of my course.
-For styles the tachyons library is used here, so I did not focus on CSS.
